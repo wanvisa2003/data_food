@@ -1,0 +1,4 @@
+classes = 13
+data = data/test.txt
+names = data/obj.names
+backup = backup/
