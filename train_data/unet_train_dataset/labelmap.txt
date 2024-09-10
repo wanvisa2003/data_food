@@ -1,15 +1,5 @@
 # label:color_rgb:parts:actions
 background:0,0,0::
 carb:255,204,51::
-kangsom:170,240,209::
-kaomangai:61,61,245::
-kaopad:240,120,240::
-kaprao:140,120,240::
-mahla:255,106,77::
 meat:250,50,83::
-mutod:89,134,179::
-padsen:184,61,245::
-radna:255,0,124::
-somtum:52,209,183::
-steak:51,221,255::
 vegetable:131,224,112::
